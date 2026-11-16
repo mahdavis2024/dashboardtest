@@ -1,5 +1,5 @@
 #plotly interactive plots
-!pip install dash==2.11.1
+
 
 import dash
 from dash import html, dcc
